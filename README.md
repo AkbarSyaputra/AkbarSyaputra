@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=0FF5F9&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Akbar+Syaputra;Cyber+Security+Student;Software+Engineer+in+the+Making;Let's+Explore+Tech+Together!" />
 </h1>
 
-<p align="center">
-  <img src="https://i.gifer.com/VAyR.gif" alt="futuristic-banner" width="80%" />
-</p>
 
 ---
 
