@@ -41,9 +41,7 @@
 
 ---
 
-## 🎮 Mini Game Corner
-
-> Buka dan mainkan mini-game interaktif favoritmu langsung dari GitHub!
+## Repository Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkbarSyaputra/AkbarSyaputra/output/pacman-contribution-graph-dark.svg">
