@@ -16,15 +16,17 @@ JavaScript, HTML, CSS, PHP, C, C++, Python
 🛠️ Framework & Tools: Laravel, TailwindCSS, Bootstrap, VS Code
 🌐 Punya kemampuan di bidang networking dan dasar electrical engineering
 
-##🚀 Tech Stack
+---
+
+## 🚀 Tech Stack
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,laravel,tailwind,vscode,git" alt="Row of colorful icons representing programming languages and tools including HTML, CSS, JavaScript, PHP, Python, C++, Laravel, TailwindCSS, VS Code, and Git, arranged on a neutral background to showcase technical skills" />
 </p>
 
-##📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akbarsyaputra&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarsyaputra&layout=compact&theme=radical" /> </p>
 
-##🕹️ Mini Game Corner
+## 🕹️ Mini Game Corner
 🎮 Buka Mini Game Zone 🚀 untuk main Snake atau Dino Game buatan saya (akan segera tersedia!)
 <p align="center">
   <a href="https://codepen.io/drehimself/full/ZYZXaL" target="_blank">
@@ -34,7 +36,7 @@ JavaScript, HTML, CSS, PHP, C, C++, Python
   </a>
 </p>
 
-##📫 Let’s Connect
+## 📫 Let’s Connect
 <p align="center"> <a href="https://linkedin.com/in/akbarsyaputra"><img src="https://img.shields.io/badge/LinkedIn-AkbarSyaputra-blue?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:akbarsyaputra@email.com"><img src="https://img.shields.io/badge/Email-akbarsyaputra%40email.com-red?style=for-the-badge&logo=gmail" /></a> </p>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile!;Let's+build+the+future+together." /> </p> ```
