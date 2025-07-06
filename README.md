@@ -28,12 +28,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AkbarSyaputra&theme=tokyonight" />
 </p>
 
-# about-me.yaml
-Nama: Akbar Syaputra
-Asal: Politeknik Negeri Cilacap
-Jurusan: Rekayasa Keamanan Siber
-Fokus: Software Engineering & Cyber Security
-Hobi: Mendaki & Touring
+<p align="center">
+  <img src="./assets/banner_profile_resized.gif" alt="futuristic-banner" width="100%" />
+</p>
+
 
 
 ---
