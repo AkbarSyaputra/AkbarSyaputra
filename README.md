@@ -26,7 +26,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,laravel,tailwind,vscode,git,mysql,firebase,nodejs,nuxtjs,arduino,vue" alt="My Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,c,js,php,python,cpp,laravel,tailwind,vscode,git,mysql,firebase,nodejs,nuxtjs,arduino,vue" alt="My Tech Stack Icons" />
 </p>
 
 
