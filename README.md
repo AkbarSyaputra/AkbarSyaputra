@@ -24,9 +24,17 @@
 ---
 ## Enjoy
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkbarSyaputra&theme=tokyonight" />
+</p>
+
+# about-me.yaml
+Nama: Akbar Syaputra
+Asal: Politeknik Negeri Cilacap
+Jurusan: Rekayasa Keamanan Siber
+Fokus: Software Engineering & Cyber Security
+Hobi: Mendaki & Touring
+
 
 ---
 
