@@ -6,8 +6,6 @@
 ---
 
 ## 👨‍🚀 About Me
-
-```yaml
 Nama: Akbar Syaputra
 Asal: Politeknik Negeri Cilacap
 Jurusan: Rekayasa Keamanan Siber
