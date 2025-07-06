@@ -45,13 +45,9 @@
 
 > Buka dan mainkan mini-game interaktif favoritmu langsung dari GitHub!
 
-<p align="center">
-  <a href="https://codepen.io/drehimself/full/ZYZXaL" target="_blank">
-    <img src="https://img.icons8.com/fluency/240/000000/controller.png" width="200px" alt="Play Game" />
-    <br/>
-    🕹️ Klik di sini untuk bermain Snake Game!
-  </a>
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
