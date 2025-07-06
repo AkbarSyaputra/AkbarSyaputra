@@ -25,14 +25,8 @@
 ## Enjoy
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkbarSyaputra&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkbarSyaputra&theme=tokyonight" width="100%" />
 </p>
-
-<p align="center">
-  <img src="./assets/banner_profile_resized.gif" alt="futuristic-banner" width="100%" />
-</p>
-
-
 
 ---
 
