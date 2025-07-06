@@ -10,11 +10,12 @@ Nama: Akbar Syaputra
 Asal: Politeknik Negeri Cilacap
 Jurusan: Rekayasa Keamanan Siber
 
-🔭 Saat ini fokus mendalami Software Engineering dan mulai menyelami dunia Cyber Security.
-🧠 Mahir menggunakan bahasa pemrograman:
-JavaScript, HTML, CSS, PHP, C, C++, Python
-🛠️ Framework & Tools: Laravel, TailwindCSS, Bootstrap, VS Code
-🌐 Punya kemampuan di bidang networking dan dasar electrical engineering
+- 👤 Nama: Akbar Syaputra
+- 🎓 Politeknik Negeri Cilacap, Rekayasa Keamanan Siber
+- 🔭 Fokus: Software Engineering & Cyber Security
+- 🧠 Skill: JavaScript, HTML, CSS, PHP, C, C++, Python
+- ⚙️ Tools: Laravel, TailwindCSS, Bootstrap, VS Code
+- 🌐 Networking & dasar electrical engineering
 
 ---
 
