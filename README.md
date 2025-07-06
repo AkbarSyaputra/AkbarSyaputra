@@ -44,13 +44,7 @@
 ## 🎮 Mini Game Corner
 
 > Buka dan mainkan mini-game interaktif favoritmu langsung dari GitHub!
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/akbarsyaputra/akbarsyaputra/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
