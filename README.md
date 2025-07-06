@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="banner_profile.gif" alt="futuristic-banner" width="100%" higth="50%" />
+  <img src="banner_profile.gif" alt="futuristic-banner" width="100%" hight="50%" />
 </p>
 
 
