@@ -60,10 +60,10 @@
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/akbarsyaputra" target="_blank">
+  <a href="www.linkedin.com/in/akbar-syaputra-dev2007" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-AkbarSyaputra-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:akbarsyaputra@email.com">
+  <a href="mailto:akbarsyaputra1707@gmail.com">
     <img src="https://img.shields.io/badge/Email-akbarsyaputra%40email.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
